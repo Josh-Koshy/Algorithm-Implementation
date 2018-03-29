@@ -1,0 +1,82 @@
+LZW (unmodified)	| Original Size | Compressed Size | Compression Ratio |	
+all.tar			     2960 kb           1804 kb		  1.6408
+assig2.doc                     85 kb		 73 kb		  1.1644
+bmps.tar		     1080 kb		 80 kb		  13.500
+code.txt                       71 kb		 31 kb		  2.9032
+code2.txt                      57 kb		 24 kb		  2.3750
+edit.exe                      231 kb		245 kb		  0.9429
+frosty.jpg                    124 kb		174 kb		  0.7126
+gone_fishing.bmp	       17 kb		 10 kb		  1.7000
+large.txt                    1193 kb		605 kb		  1.9719
+Lego-big.gif                   92 kb		120 kb		  0.6833
+medium.txt                     25 kb		 13 kb		  1.9231
+texts.tar                    1350 kb		989 kb		  1.3650
+wacky.bmp                     901 kb		  4 kb		  225.25
+winnt256.bmp		      154 kb		 62 kb		  2.4839
+
+MyLZW w/ "Nothing Mode"	| Original Size | Compressed Size | Compression Ratio |	
+all.tar			     2960 kb           1751 kb		  1.6905
+assig2.doc                     85 kb		 40 kb		  2.1250
+bmps.tar		     1080 kb		 80 kb		  13.500
+code.txt                       71 kb		 24 kb		  2.9583
+code2.txt                      57 kb		 21 kb		  2.7143
+edit.exe                      231 kb		153 kb		  1.5098
+frosty.jpg                    124 kb		160 kb		  0.7750	
+gone_fishing.bmp	       17 kb		  9 kb		  1.8889
+large.txt                    1193 kb		491 kb		  2.4297
+Lego-big.gif                   92 kb		120 kb		  0.7667
+medium.txt                     25 kb		 13 kb		  1.9231
+texts.tar                    1350 kb		584 kb		  2.3116
+wacky.bmp                     901 kb		  4 kb		  225.25
+winnt256.bmp		      154 kb		 62 kb		  2.4839
+
+MyLZW w/ "Reset Mode"	| Original Size | Compressed Size | Compression Ratio |	
+all.tar			     2960 kb           1151 kb		  2.5717
+assig2.doc                     85 kb		 40 kb		  2.1250
+bmps.tar		     1080 kb		 80 kb		  13.500
+code.txt                       71 kb		 24 kb		  2.9583
+code2.txt                      57 kb		 21 kb		  2.7143
+edit.exe                      231 kb		149 kb		  1.5503
+frosty.jpg                    124 kb		168 kb		  0.7381
+gone_fishing.bmp	       17 kb		  9 kb		  1.8889
+large.txt                    1193 kb		516 kb		  2.3120
+Lego-big.gif                   92 kb		120 kb		  0.7667
+medium.txt                     25 kb		 13 kb		  1.9231
+texts.tar                    1350 kb		577 kb		  2.3397
+wacky.bmp                     901 kb		  4 kb		  225.25
+winnt256.bmp		      154 kb		 62 kb		  2.4839
+
+
+MyLZW w/ "Monitor Mode"	| Original Size | Compressed Size | Compression Ratio |	
+all.tar			     2960 kb           1778 kb		  1.6648
+assig2.doc                     85 kb		 40 kb		  2.1250
+bmps.tar		     1080 kb		 80 kb		  13.500
+code.txt                       71 kb		 24 kb		  2.9583
+code2.txt                      57 kb		 21 kb		  2.7143
+edit.exe                      231 kb		153 kb		  1.5098
+frosty.jpg                    124 kb	 	160 kb		  0.7750
+gone_fishing.bmp	       17 kb		  9 kb		  1.8889
+large.txt                    1193 kb		491 kb		  2.4297
+Lego-big.gif                   92 kb		120 kb		  0.7667
+medium.txt                     25 kb		 13 kb		  1.9231
+texts.tar                    1350 kb		584 kb		  2.3116
+wacky.bmp                     901 kb		  4 kb		  225.25
+winnt256.bmp		      154 kb		 62 kb		  2.4839
+
+
+Winrar			| Original Size | Compressed Size | Compression Ratio |	
+all.tar			     2960 kb       	864 kb		  3.4259
+assig2.doc                     85 kb		 22 kb		  3.8636
+bmps.tar		     1080 kb		 59 kb		  18.3051
+code.txt                       71 kb		 15 kb		  4.7333
+code2.txt                      57 kb		 13 kb		  4.3846
+edit.exe                      231 kb		111 kb		  2.0811
+frosty.jpg                    124 kb		124 kb		  1.0000
+gone_fishing.bmp	       17 kb		  9 kb		  1.8889
+large.txt                    1193 kb		419 kb		  2.8473
+Lego-big.gif                   92 kb		 91 kb		  1.0110
+medium.txt                     25 kb		 11 kb		  2.2727
+texts.tar                    1350 kb		456 kb		  2.9605
+wacky.bmp                     901 kb		  2 kb		  450.5
+winnt256.bmp		      154 kb		 48 kb		  3.2083
+

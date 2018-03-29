@@ -1,0 +1,46 @@
+========================================
+CS/COE 1501 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment.  Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+
+
+Name: Josh Koshy 
+
+
+Lecture section: CS 1501 - 1200  
+
+
+Recitation day and time: Friday 1-2 PM  
+
+
+Assignment #: 2
+
+Program due date: 2/28/18  
+
+
+Handed in date: 2/28/18
+
+Source code file name(s): MyLZW.java
+Other file name(s) (if relevant): BinaryStdIn.java, BinaryStdOut.java, Queue.java, StdIn.java, StdOut.java, TST.java
+Does your program run without error?: Yes
+If not, what is/are the error(s) and which parts of your program run
+correctly?: n/a
+
+
+
+
+
+
+Additional comments to the grader:
+
+
+
+
+
+
+
+ None.
